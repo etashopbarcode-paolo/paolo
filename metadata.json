@@ -1,0 +1,5 @@
+{
+  "name": "ScacchiLog",
+  "description": "Un'applicazione per registrare le partite di scacchi, gestire gli avversari e calcolare automaticamente i colori e i punteggi.",
+  "requestFramePermissions": []
+}
